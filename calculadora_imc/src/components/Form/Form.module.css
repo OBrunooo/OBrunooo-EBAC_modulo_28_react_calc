@@ -1,0 +1,32 @@
+.formContainer {
+    display: flex;
+    margin: 0 auto;
+    max-width: 250px;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+
+.formContainerItem {
+    padding: 0;
+    display: flex;
+    max-width: 150px;
+    width: 100%;
+    height: 20px;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+
+.formLabel {
+    width: 37px;
+    text-align: start;
+}
+
+.resultado {
+    display: inline-flex;
+    align-items: center;
+}
+
+.resultadoNum{
+    padding-left: 5px;
+}
